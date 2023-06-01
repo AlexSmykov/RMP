@@ -32,6 +32,7 @@ MapMark/app/build/outputs/apk/debug
 
 ## Карта
 На карте вы можете рассматривать географическое положение существующих заметок
+
 <img src="https://github.com/DiabloZX/RMP/assets/74893461/b4aa84ea-91a7-4f40-a536-3b866eb8e5ad" height="600" width="300">
 
 Также, на карте вы можете выбирать место для новой заметки
