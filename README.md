@@ -32,13 +32,11 @@ MapMark/app/build/outputs/apk/debug
 
 ## Карта
 На карте вы можете рассматривать географическое положение существующих заметок
-
-![image](https://github.com/DiabloZX/RMP/assets/74893461/b4aa84ea-91a7-4f40-a536-3b866eb8e5ad)
+<img src="https://github.com/DiabloZX/RMP/assets/74893461/b4aa84ea-91a7-4f40-a536-3b866eb8e5ad" height="600" width="300">
 
 Также, на карте вы можете выбирать место для новой заметки
 
-![image](https://github.com/DiabloZX/RMP/assets/74893461/f9220993-7dbc-4572-9fa4-592b045a42cd)
-
+<img src="https://github.com/DiabloZX/RMP/assets/74893461/f9220993-7dbc-4572-9fa4-592b045a42cd" height="600" width="300">
 
 ## Добавление новых заметок
 Добавление заметок происходит следующим образом:
@@ -70,7 +68,7 @@ MapMark/app/build/outputs/apk/debug
 - Время заметки
 Заметки разделены между собой чертой-разделителем
 
-![image](https://github.com/DiabloZX/RMP/assets/74893461/0ea4f9f6-865c-4b7e-8c8b-ecf573fb0e21)
+<img src="https://github.com/DiabloZX/RMP/assets/74893461/0ea4f9f6-865c-4b7e-8c8b-ecf573fb0e21" height="600" width="300">
 
 При необходимости, не нужные заметки можно удалить, нажав крестик рядом с ними.
 После этого заметка удалится из списка и карты, а остальные заметки заного загрузятся в списке.
